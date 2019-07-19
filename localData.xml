@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+
+<messages>
+    <log>
+        <mconten id="0">Conecting to MS Access DB.</mconten>
+        <mconten id="1">Setting db file path.</mconten>
+        <mconten id="2">Table selected</mconten>
+        <mconten id="3">Setting text file path.</mconten>
+        <mconten id="4">Changing table name</mconten>
+        <mconten id="5">Close Connection</mconten>
+        <mconten id="6">Update Record</mconten>
+        <mconten id="7">Query Executed: </mconten>
+        <mconten id="8">Query NOT Executed: </mconten>
+        <mconten id="9">Process ended</mconten>
+        <mconten id="10">Some fields are missing</mconten>
+    </log>
+</messages>
